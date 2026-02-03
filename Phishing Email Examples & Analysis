@@ -1,0 +1,46 @@
+Phishing Email Examples & Analysis
+Email Example 1
+
+Subject: Urgent: Your Bank Account Will Be Locked
+Sender: support@hdfc-secure-login.com
+
+Indicators Observed:
+
+Fake sender domain (not official bank domain)
+
+Urgent language to create panic
+
+Suspicious verification link
+
+Request for sensitive information
+
+Classification:
+
+Phishing
+
+Risk Explanation:
+
+This email pretends to be from a legitimate bank but redirects users to a fake website designed to steal login credentials. Clicking the link can result in financial loss and account compromise.
+
+Email Example 2
+
+Subject: Invoice Attached – Immediate Review Required
+Sender: billing@unknownvendor.net
+
+Indicators Observed:
+
+Unknown sender
+
+Unexpected attachment
+
+No prior business relationship
+
+Generic greeting
+
+Classification:
+
+Suspicious
+
+Risk Explanation:
+
+Such emails often contain malware attachments. Opening the file may infect the system or allow unauthorized access.
