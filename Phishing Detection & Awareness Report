@@ -1,0 +1,71 @@
+Phishing Detection & Awareness Report
+1. Introduction
+
+Phishing is a cyber-attack technique where attackers impersonate trusted organizations to trick users into revealing sensitive information such as login credentials, bank details, or OTPs. These attacks commonly occur through emails containing fake links, urgent messages, or malicious attachments.
+
+2. Objective
+
+The objective of this task is to:
+
+Detect and analyze phishing emails
+
+Identify key phishing indicators
+
+Classify emails based on risk
+
+Educate users using simple, business-friendly explanations
+
+Provide effective prevention and awareness guidelines
+
+3. Tools Used
+
+Public phishing email samples
+
+Email header analysis tools
+
+Web browser (link and domain inspection)
+
+Google Docs / MS Word (documentation)
+
+4. Methodology
+
+Each email was analyzed using the following approach:
+
+Sender email and domain verification
+
+Link inspection without clicking
+
+Identification of urgency or fear-based language
+
+Detection of spoofed branding or fake websites
+5. Common Phishing Techniques Identified
+
+Email spoofing using similar-looking domains
+
+Fake login or verification pages
+
+Urgency and fear-based messaging
+
+Impersonation of banks, delivery services, or IT teams
+
+Malicious attachments disguised as invoices or documents
+
+6. Prevention & Awareness Guidelines
+
+Always verify sender email domains carefully
+
+Do not click links from unexpected or urgent emails
+
+Never share passwords, OTPs, or banking details via email
+
+Hover over links to check destination before clicking
+
+Report suspicious emails to the IT or security team
+
+Use spam filters and updated security software
+
+7. Conclusion
+
+Phishing remains one of the most common and effective cyber-attack methods due to human error. By identifying phishing indicators and spreading awareness, organizations and individuals can significantly reduce the risk of data breaches and financial fraud. User education is the strongest defense against phishing attacks.
+
+Final classification based on observed indicators
